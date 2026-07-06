@@ -25,6 +25,9 @@ tracks
   5 MIDI |jwz
     type midi
     strip tivraStrip
+  6 MIDI |ldo
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rdi

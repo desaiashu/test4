@@ -102,6 +102,16 @@
         "audioFlipped": false,
         "dubState": "empty",
         "audioTakeLaneCount": 0
+      },
+      "ldo": {
+        "id": "ldo",
+        "name": "MIDI",
+        "trackType": "midi",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
       }
     },
     "trackOrder": [
@@ -113,7 +123,8 @@
       "rih",
       "qgr",
       "xhb",
-      "jwz"
+      "jwz",
+      "ldo"
     ],
     "sections": {
       "bfw": {

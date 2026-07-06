@@ -486,6 +486,15 @@
       "enabled": true,
       "state": null,
       "sidechainSensitivity": 0.6
+    },
+    "edif": {
+      "id": "edif",
+      "trackId": "ldo",
+      "typeName": "tivraStrip",
+      "slot": "channelStrip",
+      "enabled": true,
+      "state": null,
+      "sidechainSensitivity": 0.6
     }
   }
 }
