@@ -504,6 +504,24 @@
       "enabled": true,
       "state": null,
       "sidechainSensitivity": 0.6
+    },
+    "rxgv": {
+      "id": "rxgv",
+      "trackId": "aoq",
+      "typeName": "tivraStrip",
+      "slot": "channelStrip",
+      "enabled": true,
+      "state": null,
+      "sidechainSensitivity": 0.6
+    },
+    "uspk": {
+      "id": "uspk",
+      "trackId": "tfr",
+      "typeName": "tivraStrip",
+      "slot": "channelStrip",
+      "enabled": true,
+      "state": null,
+      "sidechainSensitivity": 0.6
     }
   }
 }

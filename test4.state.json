@@ -122,6 +122,26 @@
         "audioFlipped": false,
         "dubState": "empty",
         "audioTakeLaneCount": 0
+      },
+      "aoq": {
+        "id": "aoq",
+        "name": "MIDI",
+        "trackType": "midi",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
+      },
+      "tfr": {
+        "id": "tfr",
+        "name": "MIDI",
+        "trackType": "midi",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
       }
     },
     "trackOrder": [
@@ -135,7 +155,9 @@
       "xhb",
       "jwz",
       "ldo",
-      "ous"
+      "ous",
+      "aoq",
+      "tfr"
     ],
     "sections": {
       "bfw": {

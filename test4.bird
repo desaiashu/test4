@@ -31,6 +31,12 @@ tracks
   7 MIDI |ous
     type midi
     strip tivraStrip
+  8 MIDI |aoq
+    type midi
+    strip tivraStrip
+  9 MIDI |tfr
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rdi
