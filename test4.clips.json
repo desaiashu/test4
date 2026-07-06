@@ -90,35 +90,6 @@
         "mode": "eighth"
       }
     },
-    "mepv": {
-      "id": "mepv",
-      "trackId": "kgr",
-      "name": "Chicago sketch 10-Mini V3.wav",
-      "startBeat": 17.71875,
-      "lengthBeats": 138.66666666666666,
-      "offsetBeats": 0.0,
-      "source": {
-        "type": "Audio",
-        "path": "samples/Chicago sketch 10-Mini V3.wav",
-        "sampleRate": 48000.0,
-        "channels": 2,
-        "lengthSamples": 0,
-        "timeStretchMode": "Signalsmith",
-        "sourceBpmOrigin": "Inherited"
-      },
-      "araEnabled": false,
-      "araBypassed": false,
-      "gain": 1.0,
-      "fadeInBeats": 0.0,
-      "fadeOutBeats": 0.0,
-      "fadeCurve": 1.0,
-      "loopEnabled": false,
-      "reversed": false,
-      "swing": {
-        "amount": 0.0,
-        "mode": "eighth"
-      }
-    },
     "ujpm": {
       "id": "ujpm",
       "trackId": "btf",
