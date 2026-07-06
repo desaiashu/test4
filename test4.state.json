@@ -316,7 +316,7 @@
     },
     "ai": {
       "aiComfort": 3,
-      "developmentStage": 0,
+      "developmentStage": 2,
       "pluginPreload": "project"
     },
     "workflow": {
