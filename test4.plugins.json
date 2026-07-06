@@ -477,6 +477,15 @@
       "enabled": true,
       "state": null,
       "sidechainSensitivity": 0.6
+    },
+    "uzrc": {
+      "id": "uzrc",
+      "trackId": "jwz",
+      "typeName": "tivraStrip",
+      "slot": "channelStrip",
+      "enabled": true,
+      "state": null,
+      "sidechainSensitivity": 0.6
     }
   }
 }

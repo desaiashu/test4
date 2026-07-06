@@ -22,6 +22,9 @@ tracks
   4 Audio |xhb
     type audio
     strip tivraStrip
+  5 MIDI |jwz
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rdi
