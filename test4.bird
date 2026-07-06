@@ -101,3 +101,5 @@ sec main
         .
         v .
         n G3 C4 G3
+  trk 17 MIDI |cek
+    c 8:0 8:0 |ohqo
