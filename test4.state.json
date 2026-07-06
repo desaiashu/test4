@@ -316,12 +316,12 @@
     },
     "ai": {
       "aiComfort": 3,
-      "developmentStage": 0,
+      "developmentStage": 2,
       "pluginPreload": "project"
     },
     "workflow": {
       "vibeMode": false,
-      "experienceLevel": 3,
+      "experienceLevel": 2,
       "defaultChannelStrip": null,
       "pluginMode": "canvas"
     },
