@@ -212,6 +212,16 @@
         "audioFlipped": false,
         "dubState": "empty",
         "audioTakeLaneCount": 0
+      },
+      "cek": {
+        "id": "cek",
+        "name": "MIDI",
+        "trackType": "midi",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
       }
     },
     "trackOrder": [
@@ -234,7 +244,8 @@
       "szl",
       "slc",
       "yju",
-      "czc"
+      "czc",
+      "cek"
     ],
     "sections": {
       "bfw": {

@@ -58,6 +58,9 @@ tracks
   16 Audio |czc
     type audio
     strip tivraStrip
+  17 MIDI |cek
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rdi

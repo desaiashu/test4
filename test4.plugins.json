@@ -585,6 +585,15 @@
       "enabled": true,
       "state": null,
       "sidechainSensitivity": 0.6
+    },
+    "yoxn": {
+      "id": "yoxn",
+      "trackId": "cek",
+      "typeName": "tivraStrip",
+      "slot": "channelStrip",
+      "enabled": true,
+      "state": null,
+      "sidechainSensitivity": 0.6
     }
   }
 }
