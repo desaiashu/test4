@@ -25,7 +25,12 @@
       "channelFormat": "stereo"
     }
   },
-  "clipMix": {},
+  "clipMix": {
+    "ryxv": {
+      "gain": 1.0,
+      "muted": false
+    }
+  },
   "sends": [
     {
       "trackId": "btf",
