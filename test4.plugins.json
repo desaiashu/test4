@@ -549,6 +549,15 @@
       "enabled": true,
       "state": null,
       "sidechainSensitivity": 0.6
+    },
+    "mlpy": {
+      "id": "mlpy",
+      "trackId": "szl",
+      "typeName": "tivraStrip",
+      "slot": "channelStrip",
+      "enabled": true,
+      "state": null,
+      "sidechainSensitivity": 0.6
     }
   }
 }

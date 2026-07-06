@@ -46,6 +46,9 @@ tracks
   12 Audio |fvo
     type audio
     strip tivraStrip
+  13 MIDI |szl
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rdi

@@ -172,6 +172,16 @@
         "audioFlipped": false,
         "dubState": "empty",
         "audioTakeLaneCount": 0
+      },
+      "szl": {
+        "id": "szl",
+        "name": "MIDI",
+        "trackType": "midi",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
       }
     },
     "trackOrder": [
@@ -190,7 +200,8 @@
       "tfr",
       "qxc",
       "xbm",
-      "fvo"
+      "fvo",
+      "szl"
     ],
     "sections": {
       "bfw": {
