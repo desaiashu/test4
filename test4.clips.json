@@ -431,6 +431,14 @@
             "beat": 40.0,
             "durationBeats": 4.0,
             "channel": 0
+          },
+          {
+            "id": "qxyx3p",
+            "note": 54,
+            "velocity": 100,
+            "beat": 20.0,
+            "durationBeats": 1.0,
+            "channel": 0
           }
         ]
       },
