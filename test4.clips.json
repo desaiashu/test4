@@ -230,6 +230,36 @@
         "amount": 0.0,
         "mode": "eighth"
       }
+    },
+    "qydi": {
+      "id": "qydi",
+      "trackId": "kgr",
+      "name": "lyria3-gentle-pad-in-c-minor-1783365573678-ntn4qrkh",
+      "startBeat": 177.5576690821256,
+      "lengthBeats": 21.99997222222222,
+      "offsetBeats": 0.0,
+      "source": {
+        "type": "Audio",
+        "path": "samples/generated/lyria3-gentle-pad-in-c-minor-1783365573678-ntn4qrkh.mp3",
+        "sampleRate": 48000.0,
+        "channels": 2,
+        "lengthSamples": 487384,
+        "timeStretchMode": "Signalsmith",
+        "sourceBpm": 130.0,
+        "sourceBpmOrigin": "Inherited"
+      },
+      "araEnabled": false,
+      "araBypassed": false,
+      "gain": 1.0,
+      "fadeInBeats": 0.008666666666666666,
+      "fadeOutBeats": 0.008666666666666666,
+      "fadeCurve": 1.0,
+      "loopEnabled": false,
+      "reversed": false,
+      "swing": {
+        "amount": 0.0,
+        "mode": "eighth"
+      }
     }
   },
   "clipPlugins": {}
