@@ -254,7 +254,7 @@
         "startBeat": 0.0,
         "lengthBeats": 128.0,
         "key": null,
-        "activeVariation": 0,
+        "activeVariation": 1,
         "variationCount": 2
       }
     },
