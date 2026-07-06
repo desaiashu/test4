@@ -33,6 +33,14 @@
             "beat": 9.5,
             "durationBeats": 0.5,
             "channel": 0
+          },
+          {
+            "id": "gbip44",
+            "note": 54,
+            "velocity": 100,
+            "beat": 11.5,
+            "durationBeats": 0.5,
+            "channel": 0
           }
         ]
       },
