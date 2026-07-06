@@ -29,31 +29,19 @@
   "sends": [
     {
       "trackId": "btf",
-      "returnId": "rih",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "kgr",
-      "returnId": "rjs",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "btf",
       "returnId": "rhd",
       "gain": 0.0,
       "preFader": false
     },
     {
       "trackId": "kgr",
-      "returnId": "rdi",
+      "returnId": "rjs",
       "gain": 0.0,
       "preFader": false
     },
     {
       "trackId": "btf",
-      "returnId": "rjs",
+      "returnId": "rih",
       "gain": 0.0,
       "preFader": false
     },
@@ -71,7 +59,19 @@
     },
     {
       "trackId": "kgr",
+      "returnId": "rdi",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "kgr",
       "returnId": "rhd",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "btf",
+      "returnId": "rjs",
       "gain": 0.0,
       "preFader": false
     }

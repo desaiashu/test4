@@ -40,3 +40,12 @@ sec main
         v 100
         n E3 A3 E3 G#3 F#3 B3 F#3
     c 14:0 12:0 |ssck
+      p w _w
+        v .
+        n C3 G3 F3 C4 C3 G3
+      p w _w3
+        v .
+        n D#3 G#3 D#3
+        .
+        v .
+        n G3 C4 G3

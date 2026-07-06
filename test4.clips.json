@@ -1,9 +1,38 @@
 {
   "clips": {
+    "mepv": {
+      "id": "mepv",
+      "trackId": "kgr",
+      "name": "Chicago sketch 10-Mini V3.wav",
+      "startBeat": 17.71875,
+      "lengthBeats": 138.66666666666666,
+      "offsetBeats": 0.0,
+      "source": {
+        "type": "Audio",
+        "path": "samples/Chicago sketch 10-Mini V3.wav",
+        "sampleRate": 48000.0,
+        "channels": 2,
+        "lengthSamples": 0,
+        "timeStretchMode": "Signalsmith",
+        "sourceBpmOrigin": "Inherited"
+      },
+      "araEnabled": false,
+      "araBypassed": false,
+      "gain": 1.0,
+      "fadeInBeats": 0.0,
+      "fadeOutBeats": 0.0,
+      "fadeCurve": 1.0,
+      "loopEnabled": false,
+      "reversed": false,
+      "swing": {
+        "amount": 0.0,
+        "mode": "eighth"
+      }
+    },
     "ujpm": {
       "id": "ujpm",
       "trackId": "btf",
-      "name": "MIDI",
+      "name": "midi - clip",
       "startBeat": 0.0,
       "lengthBeats": 16.0,
       "offsetBeats": 0.0,
@@ -11,7 +40,15 @@
         "type": "Midi",
         "notes": [
           {
-            "id": "9vxk11",
+            "id": "xkwccp",
+            "note": 52,
+            "velocity": 100,
+            "beat": 1.0,
+            "durationBeats": 0.5,
+            "channel": 0
+          },
+          {
+            "id": "xkvzim",
             "note": 57,
             "velocity": 100,
             "beat": 3.0,
@@ -19,39 +56,7 @@
             "channel": 0
           },
           {
-            "id": "q45paq",
-            "note": 56,
-            "velocity": 100,
-            "beat": 6.5,
-            "durationBeats": 0.5,
-            "channel": 0
-          },
-          {
-            "id": "sefeqp",
-            "note": 54,
-            "velocity": 100,
-            "beat": 9.5,
-            "durationBeats": 0.5,
-            "channel": 0
-          },
-          {
-            "id": "gbip44",
-            "note": 54,
-            "velocity": 100,
-            "beat": 11.5,
-            "durationBeats": 0.5,
-            "channel": 0
-          },
-          {
-            "id": "gpaq1a",
-            "note": 59,
-            "velocity": 100,
-            "beat": 10.5,
-            "durationBeats": 0.5,
-            "channel": 0
-          },
-          {
-            "id": "khgyt1",
+            "id": "xkvzin",
             "note": 52,
             "velocity": 100,
             "beat": 4.5,
@@ -59,10 +64,34 @@
             "channel": 0
           },
           {
-            "id": "4tc9yl",
-            "note": 52,
+            "id": "xkvzis",
+            "note": 56,
             "velocity": 100,
-            "beat": 1.0,
+            "beat": 6.5,
+            "durationBeats": 0.5,
+            "channel": 0
+          },
+          {
+            "id": "xkwgxz",
+            "note": 54,
+            "velocity": 100,
+            "beat": 9.5,
+            "durationBeats": 0.5,
+            "channel": 0
+          },
+          {
+            "id": "xkwgxw",
+            "note": 59,
+            "velocity": 100,
+            "beat": 10.5,
+            "durationBeats": 0.5,
+            "channel": 0
+          },
+          {
+            "id": "xkwihx",
+            "note": 54,
+            "velocity": 100,
+            "beat": 11.5,
             "durationBeats": 0.5,
             "channel": 0
           }
@@ -81,46 +110,113 @@
         "mode": "eighth"
       }
     },
-    "mepv": {
-      "id": "mepv",
-      "trackId": "kgr",
-      "name": "Chicago sketch 10-Mini V3",
-      "startBeat": 17.718198445358944,
-      "lengthBeats": 138.66666666666666,
-      "offsetBeats": 0.0,
-      "source": {
-        "type": "Audio",
-        "path": "samples/Chicago sketch 10-Mini V3.wav",
-        "sampleRate": 48000.0,
-        "channels": 2,
-        "lengthSamples": 3072000,
-        "timeStretchMode": "Signalsmith",
-        "sourceBpm": 130.0,
-        "sourceBpmOrigin": "Inherited"
-      },
-      "araEnabled": false,
-      "araBypassed": false,
-      "gain": 1.0,
-      "fadeInBeats": 0.008666666666666666,
-      "fadeOutBeats": 0.008666666666666666,
-      "fadeCurve": 1.0,
-      "loopEnabled": false,
-      "reversed": false,
-      "swing": {
-        "amount": 0.0,
-        "mode": "eighth"
-      }
-    },
     "ssck": {
       "id": "ssck",
       "trackId": "btf",
-      "name": "MIDI",
+      "name": "midi - clip",
       "startBeat": 56.0,
       "lengthBeats": 48.0,
       "offsetBeats": 0.0,
       "source": {
         "type": "Midi",
-        "notes": []
+        "notes": [
+          {
+            "id": "xkuduw",
+            "note": 48,
+            "velocity": 80,
+            "beat": 0.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          },
+          {
+            "id": "xkudux",
+            "note": 51,
+            "velocity": 80,
+            "beat": 0.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          },
+          {
+            "id": "xkufgq",
+            "note": 55,
+            "velocity": 80,
+            "beat": 0.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          },
+          {
+            "id": "xkufgr",
+            "note": 55,
+            "velocity": 80,
+            "beat": 8.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          },
+          {
+            "id": "xkuaxi",
+            "note": 53,
+            "velocity": 80,
+            "beat": 16.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          },
+          {
+            "id": "xkuaxj",
+            "note": 56,
+            "velocity": 80,
+            "beat": 16.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          },
+          {
+            "id": "xkuaxg",
+            "note": 60,
+            "velocity": 80,
+            "beat": 16.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          },
+          {
+            "id": "xkuaxh",
+            "note": 60,
+            "velocity": 80,
+            "beat": 24.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          },
+          {
+            "id": "xkucji",
+            "note": 48,
+            "velocity": 80,
+            "beat": 32.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          },
+          {
+            "id": "xkucjj",
+            "note": 51,
+            "velocity": 80,
+            "beat": 32.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          },
+          {
+            "id": "xkucjg",
+            "note": 55,
+            "velocity": 80,
+            "beat": 32.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          },
+          {
+            "id": "xkujxh",
+            "note": 55,
+            "velocity": 80,
+            "beat": 40.0,
+            "durationBeats": 4.0,
+            "channel": 0
+          }
+        ]
       },
       "araEnabled": false,
       "araBypassed": false,
