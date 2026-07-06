@@ -585,19 +585,19 @@
         "mode": "eighth"
       },
       "variationStack": {
-        "activeIndex": 0,
+        "activeIndex": 1,
         "variations": [
           {
             "index": 0,
-            "name": "Original"
-          },
-          {
-            "index": 1,
-            "name": "Variation",
+            "name": "Original",
             "source": {
               "type": "Midi",
               "notes": []
             }
+          },
+          {
+            "index": 1,
+            "name": "Variation"
           }
         ]
       }
