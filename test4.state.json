@@ -162,6 +162,16 @@
         "audioFlipped": false,
         "dubState": "empty",
         "audioTakeLaneCount": 0
+      },
+      "fvo": {
+        "id": "fvo",
+        "name": "Audio",
+        "trackType": "audio",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
       }
     },
     "trackOrder": [
@@ -179,7 +189,8 @@
       "aoq",
       "tfr",
       "qxc",
-      "xbm"
+      "xbm",
+      "fvo"
     ],
     "sections": {
       "bfw": {

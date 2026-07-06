@@ -43,6 +43,9 @@ tracks
   11 MIDI |xbm
     type midi
     strip tivraStrip
+  12 Audio |fvo
+    type audio
+    strip tivraStrip
 
 returns
   0 Hall |rdi
