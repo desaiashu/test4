@@ -337,22 +337,6 @@
         "type": "Midi",
         "notes": [
           {
-            "id": "xkuaxg",
-            "note": 60,
-            "velocity": 80,
-            "beat": 16.0,
-            "durationBeats": 4.0,
-            "channel": 0
-          },
-          {
-            "id": "xkuaxh",
-            "note": 60,
-            "velocity": 80,
-            "beat": 24.0,
-            "durationBeats": 4.0,
-            "channel": 0
-          },
-          {
             "id": "xkucji",
             "note": 48,
             "velocity": 80,
