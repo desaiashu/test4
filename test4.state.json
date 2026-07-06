@@ -182,6 +182,16 @@
         "audioFlipped": false,
         "dubState": "empty",
         "audioTakeLaneCount": 0
+      },
+      "slc": {
+        "id": "slc",
+        "name": "Audio",
+        "trackType": "audio",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
       }
     },
     "trackOrder": [
@@ -201,7 +211,8 @@
       "qxc",
       "xbm",
       "fvo",
-      "szl"
+      "szl",
+      "slc"
     ],
     "sections": {
       "bfw": {

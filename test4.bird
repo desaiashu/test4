@@ -49,6 +49,9 @@ tracks
   13 MIDI |szl
     type midi
     strip tivraStrip
+  14 Audio |slc
+    type audio
+    strip tivraStrip
 
 returns
   0 Hall |rdi
