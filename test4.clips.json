@@ -353,38 +353,6 @@
             "channel": 0
           },
           {
-            "id": "xkufgq",
-            "note": 55,
-            "velocity": 80,
-            "beat": 0.0,
-            "durationBeats": 4.0,
-            "channel": 0
-          },
-          {
-            "id": "xkufgr",
-            "note": 55,
-            "velocity": 80,
-            "beat": 8.0,
-            "durationBeats": 4.0,
-            "channel": 0
-          },
-          {
-            "id": "xkuaxi",
-            "note": 53,
-            "velocity": 80,
-            "beat": 16.0,
-            "durationBeats": 4.0,
-            "channel": 0
-          },
-          {
-            "id": "xkuaxj",
-            "note": 56,
-            "velocity": 80,
-            "beat": 16.0,
-            "durationBeats": 4.0,
-            "channel": 0
-          },
-          {
             "id": "xkuaxg",
             "note": 60,
             "velocity": 80,
@@ -415,22 +383,6 @@
             "beat": 32.0,
             "durationBeats": 4.0,
             "channel": 0
-          },
-          {
-            "id": "xkucjg",
-            "note": 55,
-            "velocity": 80,
-            "beat": 32.0,
-            "durationBeats": 4.0,
-            "channel": 0
-          },
-          {
-            "id": "xkujxh",
-            "note": 55,
-            "velocity": 80,
-            "beat": 40.0,
-            "durationBeats": 4.0,
-            "channel": 0
           }
         ]
       },
@@ -447,11 +399,15 @@
         "mode": "eighth"
       },
       "variationStack": {
-        "activeIndex": 1,
+        "activeIndex": 0,
         "variations": [
           {
             "index": 0,
-            "name": "Original",
+            "name": "Original"
+          },
+          {
+            "index": 1,
+            "name": "Variation",
             "source": {
               "type": "Midi",
               "notes": [
@@ -468,6 +424,38 @@
                   "note": 51,
                   "velocity": 80,
                   "beat": 0.0,
+                  "durationBeats": 4.0,
+                  "channel": 0
+                },
+                {
+                  "id": "xkufgq",
+                  "note": 55,
+                  "velocity": 80,
+                  "beat": 0.0,
+                  "durationBeats": 4.0,
+                  "channel": 0
+                },
+                {
+                  "id": "xkufgr",
+                  "note": 55,
+                  "velocity": 80,
+                  "beat": 8.0,
+                  "durationBeats": 4.0,
+                  "channel": 0
+                },
+                {
+                  "id": "xkuaxi",
+                  "note": 53,
+                  "velocity": 80,
+                  "beat": 16.0,
+                  "durationBeats": 4.0,
+                  "channel": 0
+                },
+                {
+                  "id": "xkuaxj",
+                  "note": 56,
+                  "velocity": 80,
+                  "beat": 16.0,
                   "durationBeats": 4.0,
                   "channel": 0
                 },
@@ -502,13 +490,25 @@
                   "beat": 32.0,
                   "durationBeats": 4.0,
                   "channel": 0
+                },
+                {
+                  "id": "xkucjg",
+                  "note": 55,
+                  "velocity": 80,
+                  "beat": 32.0,
+                  "durationBeats": 4.0,
+                  "channel": 0
+                },
+                {
+                  "id": "xkujxh",
+                  "note": 55,
+                  "velocity": 80,
+                  "beat": 40.0,
+                  "durationBeats": 4.0,
+                  "channel": 0
                 }
               ]
             }
-          },
-          {
-            "index": 1,
-            "name": "Variation"
           }
         ]
       }
