@@ -55,6 +55,9 @@ tracks
   15 MIDI |yju
     type midi
     strip tivraStrip
+  16 Audio |czc
+    type audio
+    strip tivraStrip
 
 returns
   0 Hall |rdi
