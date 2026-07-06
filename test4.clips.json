@@ -34,7 +34,7 @@
       "trackId": "btf",
       "name": "midi - clip",
       "startBeat": 0.0,
-      "lengthBeats": 57.0,
+      "lengthBeats": 59.0,
       "offsetBeats": 0.0,
       "source": {
         "type": "Midi",
@@ -116,6 +116,38 @@
             "note": 67,
             "velocity": 90,
             "beat": 56.0,
+            "durationBeats": 1.0,
+            "channel": 0
+          },
+          {
+            "id": "kn9hyo",
+            "note": 62,
+            "velocity": 90,
+            "beat": 57.0,
+            "durationBeats": 1.0,
+            "channel": 0
+          },
+          {
+            "id": "vicjrg",
+            "note": 66,
+            "velocity": 90,
+            "beat": 57.0,
+            "durationBeats": 1.0,
+            "channel": 0
+          },
+          {
+            "id": "ervkte",
+            "note": 69,
+            "velocity": 90,
+            "beat": 57.0,
+            "durationBeats": 1.0,
+            "channel": 0
+          },
+          {
+            "id": "thwkc5",
+            "note": 52,
+            "velocity": 90,
+            "beat": 58.0,
             "durationBeats": 1.0,
             "channel": 0
           }
