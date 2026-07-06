@@ -259,6 +259,15 @@
       "enabled": true,
       "state": null,
       "sidechainSensitivity": 0.6
+    },
+    "vzye": {
+      "id": "vzye",
+      "trackId": "btf",
+      "typeName": "Abbey Road RS127 Box",
+      "slot": 0,
+      "enabled": true,
+      "state": null,
+      "sidechainSensitivity": 0.6
     }
   }
 }
