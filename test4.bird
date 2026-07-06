@@ -98,7 +98,7 @@ sec main
       p w _w7 w _w3
         v .
         n D#3
-        .
+      p _w8 w _w3
         v .
         n G3
   trk 3 MIDI |qgr
