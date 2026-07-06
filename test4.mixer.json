@@ -35,6 +35,18 @@
         "distance": 1.0
       },
       "channelFormat": "stereo"
+    },
+    "xhb": {
+      "gain": 1.0,
+      "pan": 0.0,
+      "muted": false,
+      "solo": false,
+      "spatial": {
+        "azimuth": 0.0,
+        "elevation": 0.0,
+        "distance": 1.0
+      },
+      "channelFormat": "stereo"
     }
   },
   "clipMix": {
@@ -59,6 +71,36 @@
       "preFader": false
     },
     {
+      "trackId": "xhb",
+      "returnId": "rjs",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "xhb",
+      "returnId": "rdi",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "kgr",
+      "returnId": "rih",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "qgr",
+      "returnId": "rjs",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
+      "trackId": "qgr",
+      "returnId": "rdi",
+      "gain": 0.0,
+      "preFader": false
+    },
+    {
       "trackId": "kgr",
       "returnId": "rjs",
       "gain": 0.0,
@@ -77,14 +119,8 @@
       "preFader": false
     },
     {
-      "trackId": "kgr",
+      "trackId": "xhb",
       "returnId": "rih",
-      "gain": 0.0,
-      "preFader": false
-    },
-    {
-      "trackId": "qgr",
-      "returnId": "rjs",
       "gain": 0.0,
       "preFader": false
     },
@@ -114,12 +150,12 @@
     },
     {
       "trackId": "qgr",
-      "returnId": "rdi",
+      "returnId": "rhd",
       "gain": 0.0,
       "preFader": false
     },
     {
-      "trackId": "qgr",
+      "trackId": "xhb",
       "returnId": "rhd",
       "gain": 0.0,
       "preFader": false

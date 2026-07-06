@@ -82,6 +82,16 @@
         "audioFlipped": false,
         "dubState": "empty",
         "audioTakeLaneCount": 0
+      },
+      "xhb": {
+        "id": "xhb",
+        "name": "Audio",
+        "trackType": "audio",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
       }
     },
     "trackOrder": [
@@ -91,7 +101,8 @@
       "rhd",
       "rjs",
       "rih",
-      "qgr"
+      "qgr",
+      "xhb"
     ],
     "sections": {
       "bfw": {

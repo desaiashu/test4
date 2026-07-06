@@ -19,6 +19,9 @@ tracks
   3 MIDI |qgr
     type midi
     strip tivraStrip
+  4 Audio |xhb
+    type audio
+    strip tivraStrip
 
 returns
   0 Hall |rdi
