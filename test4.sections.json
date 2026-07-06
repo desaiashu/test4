@@ -1,3 +1,1113 @@
 {
-  "sectionVariations": {}
+  "sectionVariations": {
+    "bfw": {
+      "active": 1,
+      "variations": [
+        {
+          "index": 0,
+          "name": "Original",
+          "content": [
+            {
+              "id": "mepv",
+              "trackId": "kgr",
+              "name": "Chicago sketch 10-Mini V3.wav",
+              "startBeat": 17.71875,
+              "lengthBeats": 138.66666666666666,
+              "offsetBeats": 0.0,
+              "source": {
+                "type": "Audio",
+                "path": "samples/Chicago sketch 10-Mini V3.wav",
+                "sampleRate": 48000.0,
+                "channels": 2,
+                "lengthSamples": 0,
+                "timeStretchMode": "Signalsmith",
+                "sourceBpmOrigin": "Inherited"
+              },
+              "araEnabled": false,
+              "araBypassed": false,
+              "gain": 1.0,
+              "fadeInBeats": 0.0,
+              "fadeOutBeats": 0.0,
+              "fadeCurve": 1.0,
+              "loopEnabled": false,
+              "reversed": false,
+              "swing": {
+                "amount": 0.0,
+                "mode": "eighth"
+              }
+            },
+            {
+              "id": "ujpm",
+              "trackId": "btf",
+              "name": "midi - clip",
+              "startBeat": 0.0,
+              "lengthBeats": 65.0,
+              "offsetBeats": 0.0,
+              "source": {
+                "type": "Midi",
+                "notes": [
+                  {
+                    "id": "xkwccp",
+                    "note": 52,
+                    "velocity": 100,
+                    "beat": 1.0,
+                    "durationBeats": 0.5,
+                    "channel": 0
+                  },
+                  {
+                    "id": "xkvzim",
+                    "note": 57,
+                    "velocity": 100,
+                    "beat": 3.0,
+                    "durationBeats": 0.5,
+                    "channel": 0
+                  },
+                  {
+                    "id": "xkvzin",
+                    "note": 52,
+                    "velocity": 100,
+                    "beat": 4.5,
+                    "durationBeats": 0.5,
+                    "channel": 0
+                  },
+                  {
+                    "id": "xkvzis",
+                    "note": 56,
+                    "velocity": 100,
+                    "beat": 6.5,
+                    "durationBeats": 0.5,
+                    "channel": 0
+                  },
+                  {
+                    "id": "xkwgxz",
+                    "note": 54,
+                    "velocity": 100,
+                    "beat": 9.5,
+                    "durationBeats": 0.5,
+                    "channel": 0
+                  },
+                  {
+                    "id": "xkwgxw",
+                    "note": 59,
+                    "velocity": 100,
+                    "beat": 10.5,
+                    "durationBeats": 0.5,
+                    "channel": 0
+                  },
+                  {
+                    "id": "xkwihx",
+                    "note": 54,
+                    "velocity": 100,
+                    "beat": 11.5,
+                    "durationBeats": 0.5,
+                    "channel": 0
+                  },
+                  {
+                    "id": "0r3hj4",
+                    "note": 60,
+                    "velocity": 90,
+                    "beat": 56.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "y85sul",
+                    "note": 64,
+                    "velocity": 90,
+                    "beat": 56.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "f2nnaw",
+                    "note": 67,
+                    "velocity": 90,
+                    "beat": 56.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "kn9hyo",
+                    "note": 62,
+                    "velocity": 90,
+                    "beat": 57.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "vicjrg",
+                    "note": 66,
+                    "velocity": 90,
+                    "beat": 57.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "ervkte",
+                    "note": 69,
+                    "velocity": 90,
+                    "beat": 57.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "thwkc5",
+                    "note": 52,
+                    "velocity": 90,
+                    "beat": 58.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "ia65fi",
+                    "note": 56,
+                    "velocity": 90,
+                    "beat": 58.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "3eqrn0",
+                    "note": 59,
+                    "velocity": 90,
+                    "beat": 58.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "kbo08r",
+                    "note": 58,
+                    "velocity": 90,
+                    "beat": 59.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "7nif21",
+                    "note": 62,
+                    "velocity": 90,
+                    "beat": 59.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "el5913",
+                    "note": 65,
+                    "velocity": 90,
+                    "beat": 59.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "k71tua",
+                    "note": 56,
+                    "velocity": 90,
+                    "beat": 60.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "4u0yey",
+                    "note": 60,
+                    "velocity": 90,
+                    "beat": 60.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "42pc8a",
+                    "note": 63,
+                    "velocity": 90,
+                    "beat": 60.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "69i3t1",
+                    "note": 54,
+                    "velocity": 90,
+                    "beat": 61.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "vp3ydx",
+                    "note": 58,
+                    "velocity": 90,
+                    "beat": 61.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "iun8qs",
+                    "note": 61,
+                    "velocity": 90,
+                    "beat": 61.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "r0sv1q",
+                    "note": 55,
+                    "velocity": 90,
+                    "beat": 62.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "r2817f",
+                    "note": 59,
+                    "velocity": 90,
+                    "beat": 62.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "h9736m",
+                    "note": 62,
+                    "velocity": 90,
+                    "beat": 62.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "4gvmzw",
+                    "note": 57,
+                    "velocity": 90,
+                    "beat": 63.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "11wqp3",
+                    "note": 61,
+                    "velocity": 90,
+                    "beat": 63.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "dqtup1",
+                    "note": 64,
+                    "velocity": 90,
+                    "beat": 63.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "l6e9ja",
+                    "note": 53,
+                    "velocity": 90,
+                    "beat": 64.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "iz6351",
+                    "note": 57,
+                    "velocity": 90,
+                    "beat": 64.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "61jh6r",
+                    "note": 60,
+                    "velocity": 90,
+                    "beat": 64.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  }
+                ]
+              },
+              "araEnabled": false,
+              "araBypassed": false,
+              "gain": 1.0,
+              "fadeInBeats": 0.0,
+              "fadeOutBeats": 0.0,
+              "fadeCurve": 1.0,
+              "loopEnabled": false,
+              "reversed": false,
+              "swing": {
+                "amount": 0.0,
+                "mode": "eighth"
+              }
+            },
+            {
+              "id": "ssck",
+              "trackId": "btf",
+              "name": "midi - clip",
+              "startBeat": 56.0,
+              "lengthBeats": 48.0,
+              "offsetBeats": 0.0,
+              "source": {
+                "type": "Midi",
+                "notes": [
+                  {
+                    "id": "xkucji",
+                    "note": 48,
+                    "velocity": 80,
+                    "beat": 32.0,
+                    "durationBeats": 4.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "xkucjj",
+                    "note": 51,
+                    "velocity": 80,
+                    "beat": 32.0,
+                    "durationBeats": 4.0,
+                    "channel": 0
+                  }
+                ]
+              },
+              "araEnabled": false,
+              "araBypassed": false,
+              "gain": 1.0,
+              "fadeInBeats": 0.0,
+              "fadeOutBeats": 0.0,
+              "fadeCurve": 1.0,
+              "loopEnabled": false,
+              "reversed": false,
+              "swing": {
+                "amount": 0.0,
+                "mode": "eighth"
+              },
+              "variationStack": {
+                "activeIndex": 0,
+                "variations": [
+                  {
+                    "index": 0,
+                    "name": "Original"
+                  },
+                  {
+                    "index": 1,
+                    "name": "Variation",
+                    "source": {
+                      "type": "Midi",
+                      "notes": [
+                        {
+                          "id": "xkuduw",
+                          "note": 48,
+                          "velocity": 80,
+                          "beat": 0.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        },
+                        {
+                          "id": "xkudux",
+                          "note": 51,
+                          "velocity": 80,
+                          "beat": 0.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        },
+                        {
+                          "id": "xkufgq",
+                          "note": 55,
+                          "velocity": 80,
+                          "beat": 0.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        },
+                        {
+                          "id": "xkufgr",
+                          "note": 55,
+                          "velocity": 80,
+                          "beat": 8.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        },
+                        {
+                          "id": "xkuaxi",
+                          "note": 53,
+                          "velocity": 80,
+                          "beat": 16.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        },
+                        {
+                          "id": "xkuaxj",
+                          "note": 56,
+                          "velocity": 80,
+                          "beat": 16.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        },
+                        {
+                          "id": "xkuaxg",
+                          "note": 60,
+                          "velocity": 80,
+                          "beat": 16.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        },
+                        {
+                          "id": "xkuaxh",
+                          "note": 60,
+                          "velocity": 80,
+                          "beat": 24.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        },
+                        {
+                          "id": "xkucji",
+                          "note": 48,
+                          "velocity": 80,
+                          "beat": 32.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        },
+                        {
+                          "id": "xkucjj",
+                          "note": 51,
+                          "velocity": 80,
+                          "beat": 32.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        },
+                        {
+                          "id": "xkucjg",
+                          "note": 55,
+                          "velocity": 80,
+                          "beat": 32.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        },
+                        {
+                          "id": "xkujxh",
+                          "note": 55,
+                          "velocity": 80,
+                          "beat": 40.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "id": "ohqo",
+              "trackId": "cek",
+              "name": "MIDI",
+              "startBeat": 32.0,
+              "lengthBeats": 32.0,
+              "offsetBeats": 0.0,
+              "source": {
+                "type": "Midi",
+                "notes": []
+              },
+              "araEnabled": false,
+              "araBypassed": false,
+              "gain": 1.0,
+              "fadeInBeats": 0.0,
+              "fadeOutBeats": 0.0,
+              "fadeCurve": 1.0,
+              "loopEnabled": false,
+              "reversed": false,
+              "swing": {
+                "amount": 0.0,
+                "mode": "eighth"
+              }
+            },
+            {
+              "id": "oqiy",
+              "trackId": "qgr",
+              "name": "MIDI",
+              "startBeat": 32.0,
+              "lengthBeats": 32.0,
+              "offsetBeats": 0.0,
+              "source": {
+                "type": "Midi",
+                "notes": []
+              },
+              "araEnabled": false,
+              "araBypassed": false,
+              "gain": 1.0,
+              "fadeInBeats": 0.0,
+              "fadeOutBeats": 0.0,
+              "fadeCurve": 1.0,
+              "loopEnabled": false,
+              "reversed": false,
+              "swing": {
+                "amount": 0.0,
+                "mode": "eighth"
+              },
+              "variationStack": {
+                "activeIndex": 1,
+                "variations": [
+                  {
+                    "index": 0,
+                    "name": "Original",
+                    "source": {
+                      "type": "Midi",
+                      "notes": []
+                    }
+                  },
+                  {
+                    "index": 1,
+                    "name": "Variation"
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "index": 1,
+          "name": "Variation 2",
+          "content": [
+            {
+              "id": "mepv",
+              "trackId": "kgr",
+              "name": "Chicago sketch 10-Mini V3.wav",
+              "startBeat": 17.71875,
+              "lengthBeats": 138.66666666666666,
+              "offsetBeats": 0.0,
+              "source": {
+                "type": "Audio",
+                "path": "samples/Chicago sketch 10-Mini V3.wav",
+                "sampleRate": 48000.0,
+                "channels": 2,
+                "lengthSamples": 0,
+                "timeStretchMode": "Signalsmith",
+                "sourceBpmOrigin": "Inherited"
+              },
+              "araEnabled": false,
+              "araBypassed": false,
+              "gain": 1.0,
+              "fadeInBeats": 0.0,
+              "fadeOutBeats": 0.0,
+              "fadeCurve": 1.0,
+              "loopEnabled": false,
+              "reversed": false,
+              "swing": {
+                "amount": 0.0,
+                "mode": "eighth"
+              }
+            },
+            {
+              "id": "ujpm",
+              "trackId": "btf",
+              "name": "midi - clip",
+              "startBeat": 0.0,
+              "lengthBeats": 65.0,
+              "offsetBeats": 0.0,
+              "source": {
+                "type": "Midi",
+                "notes": [
+                  {
+                    "id": "xkwccp",
+                    "note": 52,
+                    "velocity": 100,
+                    "beat": 1.0,
+                    "durationBeats": 0.5,
+                    "channel": 0
+                  },
+                  {
+                    "id": "xkvzim",
+                    "note": 57,
+                    "velocity": 100,
+                    "beat": 3.0,
+                    "durationBeats": 0.5,
+                    "channel": 0
+                  },
+                  {
+                    "id": "xkvzin",
+                    "note": 52,
+                    "velocity": 100,
+                    "beat": 4.5,
+                    "durationBeats": 0.5,
+                    "channel": 0
+                  },
+                  {
+                    "id": "xkvzis",
+                    "note": 56,
+                    "velocity": 100,
+                    "beat": 6.5,
+                    "durationBeats": 0.5,
+                    "channel": 0
+                  },
+                  {
+                    "id": "xkwgxz",
+                    "note": 54,
+                    "velocity": 100,
+                    "beat": 9.5,
+                    "durationBeats": 0.5,
+                    "channel": 0
+                  },
+                  {
+                    "id": "xkwgxw",
+                    "note": 59,
+                    "velocity": 100,
+                    "beat": 10.5,
+                    "durationBeats": 0.5,
+                    "channel": 0
+                  },
+                  {
+                    "id": "xkwihx",
+                    "note": 54,
+                    "velocity": 100,
+                    "beat": 11.5,
+                    "durationBeats": 0.5,
+                    "channel": 0
+                  },
+                  {
+                    "id": "0r3hj4",
+                    "note": 60,
+                    "velocity": 90,
+                    "beat": 56.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "y85sul",
+                    "note": 64,
+                    "velocity": 90,
+                    "beat": 56.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "f2nnaw",
+                    "note": 67,
+                    "velocity": 90,
+                    "beat": 56.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "kn9hyo",
+                    "note": 62,
+                    "velocity": 90,
+                    "beat": 57.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "vicjrg",
+                    "note": 66,
+                    "velocity": 90,
+                    "beat": 57.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "ervkte",
+                    "note": 69,
+                    "velocity": 90,
+                    "beat": 57.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "thwkc5",
+                    "note": 52,
+                    "velocity": 90,
+                    "beat": 58.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "ia65fi",
+                    "note": 56,
+                    "velocity": 90,
+                    "beat": 58.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "3eqrn0",
+                    "note": 59,
+                    "velocity": 90,
+                    "beat": 58.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "kbo08r",
+                    "note": 58,
+                    "velocity": 90,
+                    "beat": 59.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "7nif21",
+                    "note": 62,
+                    "velocity": 90,
+                    "beat": 59.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "el5913",
+                    "note": 65,
+                    "velocity": 90,
+                    "beat": 59.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "k71tua",
+                    "note": 56,
+                    "velocity": 90,
+                    "beat": 60.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "4u0yey",
+                    "note": 60,
+                    "velocity": 90,
+                    "beat": 60.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "42pc8a",
+                    "note": 63,
+                    "velocity": 90,
+                    "beat": 60.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "69i3t1",
+                    "note": 54,
+                    "velocity": 90,
+                    "beat": 61.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "vp3ydx",
+                    "note": 58,
+                    "velocity": 90,
+                    "beat": 61.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "iun8qs",
+                    "note": 61,
+                    "velocity": 90,
+                    "beat": 61.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "r0sv1q",
+                    "note": 55,
+                    "velocity": 90,
+                    "beat": 62.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "r2817f",
+                    "note": 59,
+                    "velocity": 90,
+                    "beat": 62.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "h9736m",
+                    "note": 62,
+                    "velocity": 90,
+                    "beat": 62.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "4gvmzw",
+                    "note": 57,
+                    "velocity": 90,
+                    "beat": 63.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "11wqp3",
+                    "note": 61,
+                    "velocity": 90,
+                    "beat": 63.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "dqtup1",
+                    "note": 64,
+                    "velocity": 90,
+                    "beat": 63.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "l6e9ja",
+                    "note": 53,
+                    "velocity": 90,
+                    "beat": 64.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "iz6351",
+                    "note": 57,
+                    "velocity": 90,
+                    "beat": 64.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "61jh6r",
+                    "note": 60,
+                    "velocity": 90,
+                    "beat": 64.0,
+                    "durationBeats": 1.0,
+                    "channel": 0
+                  }
+                ]
+              },
+              "araEnabled": false,
+              "araBypassed": false,
+              "gain": 1.0,
+              "fadeInBeats": 0.0,
+              "fadeOutBeats": 0.0,
+              "fadeCurve": 1.0,
+              "loopEnabled": false,
+              "reversed": false,
+              "swing": {
+                "amount": 0.0,
+                "mode": "eighth"
+              }
+            },
+            {
+              "id": "ssck",
+              "trackId": "btf",
+              "name": "midi - clip",
+              "startBeat": 56.0,
+              "lengthBeats": 48.0,
+              "offsetBeats": 0.0,
+              "source": {
+                "type": "Midi",
+                "notes": [
+                  {
+                    "id": "xkucji",
+                    "note": 48,
+                    "velocity": 80,
+                    "beat": 32.0,
+                    "durationBeats": 4.0,
+                    "channel": 0
+                  },
+                  {
+                    "id": "xkucjj",
+                    "note": 51,
+                    "velocity": 80,
+                    "beat": 32.0,
+                    "durationBeats": 4.0,
+                    "channel": 0
+                  }
+                ]
+              },
+              "araEnabled": false,
+              "araBypassed": false,
+              "gain": 1.0,
+              "fadeInBeats": 0.0,
+              "fadeOutBeats": 0.0,
+              "fadeCurve": 1.0,
+              "loopEnabled": false,
+              "reversed": false,
+              "swing": {
+                "amount": 0.0,
+                "mode": "eighth"
+              },
+              "variationStack": {
+                "activeIndex": 0,
+                "variations": [
+                  {
+                    "index": 0,
+                    "name": "Original"
+                  },
+                  {
+                    "index": 1,
+                    "name": "Variation",
+                    "source": {
+                      "type": "Midi",
+                      "notes": [
+                        {
+                          "id": "xkuduw",
+                          "note": 48,
+                          "velocity": 80,
+                          "beat": 0.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        },
+                        {
+                          "id": "xkudux",
+                          "note": 51,
+                          "velocity": 80,
+                          "beat": 0.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        },
+                        {
+                          "id": "xkufgq",
+                          "note": 55,
+                          "velocity": 80,
+                          "beat": 0.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        },
+                        {
+                          "id": "xkufgr",
+                          "note": 55,
+                          "velocity": 80,
+                          "beat": 8.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        },
+                        {
+                          "id": "xkuaxi",
+                          "note": 53,
+                          "velocity": 80,
+                          "beat": 16.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        },
+                        {
+                          "id": "xkuaxj",
+                          "note": 56,
+                          "velocity": 80,
+                          "beat": 16.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        },
+                        {
+                          "id": "xkuaxg",
+                          "note": 60,
+                          "velocity": 80,
+                          "beat": 16.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        },
+                        {
+                          "id": "xkuaxh",
+                          "note": 60,
+                          "velocity": 80,
+                          "beat": 24.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        },
+                        {
+                          "id": "xkucji",
+                          "note": 48,
+                          "velocity": 80,
+                          "beat": 32.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        },
+                        {
+                          "id": "xkucjj",
+                          "note": 51,
+                          "velocity": 80,
+                          "beat": 32.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        },
+                        {
+                          "id": "xkucjg",
+                          "note": 55,
+                          "velocity": 80,
+                          "beat": 32.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        },
+                        {
+                          "id": "xkujxh",
+                          "note": 55,
+                          "velocity": 80,
+                          "beat": 40.0,
+                          "durationBeats": 4.0,
+                          "channel": 0
+                        }
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "id": "ohqo",
+              "trackId": "cek",
+              "name": "MIDI",
+              "startBeat": 32.0,
+              "lengthBeats": 32.0,
+              "offsetBeats": 0.0,
+              "source": {
+                "type": "Midi",
+                "notes": []
+              },
+              "araEnabled": false,
+              "araBypassed": false,
+              "gain": 1.0,
+              "fadeInBeats": 0.0,
+              "fadeOutBeats": 0.0,
+              "fadeCurve": 1.0,
+              "loopEnabled": false,
+              "reversed": false,
+              "swing": {
+                "amount": 0.0,
+                "mode": "eighth"
+              }
+            },
+            {
+              "id": "oqiy",
+              "trackId": "qgr",
+              "name": "MIDI",
+              "startBeat": 32.0,
+              "lengthBeats": 32.0,
+              "offsetBeats": 0.0,
+              "source": {
+                "type": "Midi",
+                "notes": []
+              },
+              "araEnabled": false,
+              "araBypassed": false,
+              "gain": 1.0,
+              "fadeInBeats": 0.0,
+              "fadeOutBeats": 0.0,
+              "fadeCurve": 1.0,
+              "loopEnabled": false,
+              "reversed": false,
+              "swing": {
+                "amount": 0.0,
+                "mode": "eighth"
+              },
+              "variationStack": {
+                "activeIndex": 1,
+                "variations": [
+                  {
+                    "index": 0,
+                    "name": "Original",
+                    "source": {
+                      "type": "Midi",
+                      "notes": []
+                    }
+                  },
+                  {
+                    "index": 1,
+                    "name": "Variation"
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
 }
