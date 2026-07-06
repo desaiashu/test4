@@ -387,11 +387,15 @@
         "mode": "eighth"
       },
       "variationStack": {
-        "activeIndex": 1,
+        "activeIndex": 0,
         "variations": [
           {
             "index": 0,
-            "name": "Original",
+            "name": "Original"
+          },
+          {
+            "index": 1,
+            "name": "Variation",
             "source": {
               "type": "Midi",
               "notes": [
@@ -669,10 +673,6 @@
                 }
               ]
             }
-          },
-          {
-            "index": 1,
-            "name": "Variation"
           }
         ]
       }
