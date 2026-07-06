@@ -6,5 +6,9 @@
   "samples/generated/lyria3-gentle-pad-in-c-minor-1783365573678-ntn4qrkh.mp3": {
     "sha256": "9c4df8e65eb57fd3afb6cb80773e2479ffe0dec703b5d03951fc078491c26dfd",
     "bytes": 744609
+  },
+  "videos/generated/veo-san-francisco-nighttime-1783365629396-505d3p86.mp4": {
+    "sha256": "acb0ec7d76b93b6ec9b8a2c19bc4ff385447be4202fa1040d64dcdb6a3acb968",
+    "bytes": 3941417
   }
 }
