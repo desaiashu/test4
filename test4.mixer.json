@@ -29,6 +29,10 @@
     "ryxv": {
       "gain": 1.0,
       "muted": false
+    },
+    "xmey": {
+      "gain": 1.0,
+      "muted": false
     }
   },
   "sends": [
