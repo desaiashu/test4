@@ -79,6 +79,7 @@ returns
 sec main
   trk 2 midi |btf
     c 0:0 16:96 |ujpm
+      sw xx -0.24
       p _q xx _qd xx _q xx _qd xx _h _xx xx _xx xx _xx xx _w11 q q q q q q q q q
         v 100 100 100 100 100 100 100 90 90 90 90 90 90 90 90 90
         n E3 A3 E3 G#3 F#3 B3 F#3 C4 D4 E3 A#3 G#3 F#3 G3 A3 F3

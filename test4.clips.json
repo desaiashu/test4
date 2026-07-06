@@ -383,7 +383,7 @@
       "loopEnabled": false,
       "reversed": false,
       "swing": {
-        "amount": 0.0,
+        "amount": -0.24,
         "mode": "eighth"
       }
     },
