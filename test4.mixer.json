@@ -33,6 +33,10 @@
     "xmey": {
       "gain": 1.0,
       "muted": false
+    },
+    "ielc": {
+      "gain": 1.0,
+      "muted": false
     }
   },
   "sends": [
