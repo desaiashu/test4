@@ -583,6 +583,23 @@
       "swing": {
         "amount": 0.0,
         "mode": "eighth"
+      },
+      "variationStack": {
+        "activeIndex": 0,
+        "variations": [
+          {
+            "index": 0,
+            "name": "Original"
+          },
+          {
+            "index": 1,
+            "name": "Variation",
+            "source": {
+              "type": "Midi",
+              "notes": []
+            }
+          }
+        ]
       }
     }
   },
