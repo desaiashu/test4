@@ -34,7 +34,7 @@
       "trackId": "btf",
       "name": "midi - clip",
       "startBeat": 0.0,
-      "lengthBeats": 62.0,
+      "lengthBeats": 65.0,
       "offsetBeats": 0.0,
       "source": {
         "type": "Midi",
@@ -236,6 +236,78 @@
             "note": 61,
             "velocity": 90,
             "beat": 61.0,
+            "durationBeats": 1.0,
+            "channel": 0
+          },
+          {
+            "id": "r0sv1q",
+            "note": 55,
+            "velocity": 90,
+            "beat": 62.0,
+            "durationBeats": 1.0,
+            "channel": 0
+          },
+          {
+            "id": "r2817f",
+            "note": 59,
+            "velocity": 90,
+            "beat": 62.0,
+            "durationBeats": 1.0,
+            "channel": 0
+          },
+          {
+            "id": "h9736m",
+            "note": 62,
+            "velocity": 90,
+            "beat": 62.0,
+            "durationBeats": 1.0,
+            "channel": 0
+          },
+          {
+            "id": "4gvmzw",
+            "note": 57,
+            "velocity": 90,
+            "beat": 63.0,
+            "durationBeats": 1.0,
+            "channel": 0
+          },
+          {
+            "id": "11wqp3",
+            "note": 61,
+            "velocity": 90,
+            "beat": 63.0,
+            "durationBeats": 1.0,
+            "channel": 0
+          },
+          {
+            "id": "dqtup1",
+            "note": 64,
+            "velocity": 90,
+            "beat": 63.0,
+            "durationBeats": 1.0,
+            "channel": 0
+          },
+          {
+            "id": "l6e9ja",
+            "note": 53,
+            "velocity": 90,
+            "beat": 64.0,
+            "durationBeats": 1.0,
+            "channel": 0
+          },
+          {
+            "id": "iz6351",
+            "note": 57,
+            "velocity": 90,
+            "beat": 64.0,
+            "durationBeats": 1.0,
+            "channel": 0
+          },
+          {
+            "id": "61jh6r",
+            "note": 60,
+            "velocity": 90,
+            "beat": 64.0,
             "durationBeats": 1.0,
             "channel": 0
           }
