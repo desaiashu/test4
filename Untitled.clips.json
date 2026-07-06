@@ -25,6 +25,14 @@
             "beat": 6.5,
             "durationBeats": 0.5,
             "channel": 0
+          },
+          {
+            "id": "sefeqp",
+            "note": 54,
+            "velocity": 100,
+            "beat": 9.5,
+            "durationBeats": 0.5,
+            "channel": 0
           }
         ]
       },
