@@ -92,9 +92,9 @@ sec main
         v 90
         n G4 A4 B3 F4 D#4 C#4 D4 E4 C4
     c 14:0 12:0 |ssck
-      p w _w3 w _w w _w w _w w _w
+      p w _w3 w _w w _w w _w3
         v .
-        n C3 C4 C4 C3 G3
+        n C3 C4 C4 C3
       p w _w7 w _w3
         v .
         n D#3
