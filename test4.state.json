@@ -72,6 +72,16 @@
         "audioFlipped": false,
         "dubState": "empty",
         "audioTakeLaneCount": 0
+      },
+      "qgr": {
+        "id": "qgr",
+        "name": "MIDI",
+        "trackType": "midi",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
       }
     },
     "trackOrder": [
@@ -80,7 +90,8 @@
       "rdi",
       "rhd",
       "rjs",
-      "rih"
+      "rih",
+      "qgr"
     ],
     "sections": {
       "bfw": {

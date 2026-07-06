@@ -16,6 +16,9 @@ tracks
     fx Abbey Road RS127 Box
     fx2 tivraModularFx
     strip tivraStrip
+  3 MIDI |qgr
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rdi
