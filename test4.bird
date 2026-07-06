@@ -28,6 +28,9 @@ tracks
   6 MIDI |ldo
     type midi
     strip tivraStrip
+  7 MIDI |ous
+    type midi
+    strip tivraStrip
 
 returns
   0 Hall |rdi
