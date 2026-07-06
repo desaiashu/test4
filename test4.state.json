@@ -192,6 +192,16 @@
         "audioFlipped": false,
         "dubState": "empty",
         "audioTakeLaneCount": 0
+      },
+      "yju": {
+        "id": "yju",
+        "name": "MIDI",
+        "trackType": "midi",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
       }
     },
     "trackOrder": [
@@ -212,7 +222,8 @@
       "xbm",
       "fvo",
       "szl",
-      "slc"
+      "slc",
+      "yju"
     ],
     "sections": {
       "bfw": {
