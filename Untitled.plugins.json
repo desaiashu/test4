@@ -67,7 +67,7 @@
         "osc2Wave": 1.0,
         "osc2Level": 0.0,
         "osc2Detune": 0.0,
-        "osc2Pan": 0.0,
+        "osc2Pan": -100.0,
         "osc3Wave": 2.0,
         "osc3Level": 0.0,
         "osc3Detune": 0.0,
