@@ -142,6 +142,16 @@
         "audioFlipped": false,
         "dubState": "empty",
         "audioTakeLaneCount": 0
+      },
+      "qxc": {
+        "id": "qxc",
+        "name": "Audio",
+        "trackType": "audio",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
       }
     },
     "trackOrder": [
@@ -157,7 +167,8 @@
       "ldo",
       "ous",
       "aoq",
-      "tfr"
+      "tfr",
+      "qxc"
     ],
     "sections": {
       "bfw": {

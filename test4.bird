@@ -37,6 +37,9 @@ tracks
   9 MIDI |tfr
     type midi
     strip tivraStrip
+  10 Audio |qxc
+    type audio
+    strip tivraStrip
 
 returns
   0 Hall |rdi
