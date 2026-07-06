@@ -77,6 +77,9 @@ returns
     strip tivraStrip
 
 sec main
+  trk 1 audio |kgr
+    c 4:165 34:256 |mepv
+      'samples/Chicago sketch 10-Mini V3.wav'
   trk 2 midi |btf
     c 0:0 16:96 |ujpm
       p _q xx _qd xx _q xx _qd xx _h _xx xx _xx xx _xx xx _w11 q q q q q q q q q
@@ -88,6 +91,13 @@ sec main
         .
         v 90
         n G4 A4 B3 F4 D#4 C#4 D4 E4 C4
+    c 14:0 12:0 |ssck
+      p _w8 w _w3
+        v .
+        n C3
+        .
+        v .
+        n D#3
   trk 3 MIDI |qgr
     c 8:0 8:0 |oqiy
   trk 17 MIDI |cek
