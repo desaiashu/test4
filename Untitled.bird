@@ -1,0 +1,32 @@
+sig
+  bpm 130
+  system 12tet western
+  scale C chromatic
+
+arr
+  main 32 |bfw
+
+tracks
+  1 audio |kgr
+    type audio
+    strip tivraStrip
+  2 midi |btf
+    type midi
+    plugin tivra4OSC
+    strip tivraStrip
+
+returns
+  0 Hall |rdi
+    fx tivraHall
+    strip tivraStrip
+  1 Plate |rhd
+    fx tivraPlate
+    strip tivraStrip
+  2 Delay |rjs
+    fx tivraDelay
+    strip tivraStrip
+  3 Color |rih
+    fx tivraDistortion
+    strip tivraStrip
+
+sec main
