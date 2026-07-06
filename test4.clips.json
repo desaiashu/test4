@@ -102,6 +102,22 @@
             "beat": 56.0,
             "durationBeats": 1.0,
             "channel": 0
+          },
+          {
+            "id": "y85sul",
+            "note": 64,
+            "velocity": 90,
+            "beat": 56.0,
+            "durationBeats": 1.0,
+            "channel": 0
+          },
+          {
+            "id": "f2nnaw",
+            "note": 67,
+            "velocity": 90,
+            "beat": 56.0,
+            "durationBeats": 1.0,
+            "channel": 0
           }
         ]
       },
