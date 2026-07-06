@@ -34,14 +34,14 @@
       "preFader": false
     },
     {
-      "trackId": "btf",
+      "trackId": "kgr",
       "returnId": "rjs",
       "gain": 0.0,
       "preFader": false
     },
     {
-      "trackId": "kgr",
-      "returnId": "rih",
+      "trackId": "btf",
+      "returnId": "rhd",
       "gain": 0.0,
       "preFader": false
     },
@@ -52,14 +52,14 @@
       "preFader": false
     },
     {
-      "trackId": "kgr",
+      "trackId": "btf",
       "returnId": "rjs",
       "gain": 0.0,
       "preFader": false
     },
     {
-      "trackId": "btf",
-      "returnId": "rhd",
+      "trackId": "kgr",
+      "returnId": "rih",
       "gain": 0.0,
       "preFader": false
     },
