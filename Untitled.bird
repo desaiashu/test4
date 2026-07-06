@@ -32,6 +32,6 @@ returns
 sec main
   trk 2 midi |btf
     c 0:0 4:0 |ujpm
-      p _hd xx _w3 _xx
+      p _hd xx _hd xx _ww _q
         v 100
-        n A3
+        n A3 G#3
