@@ -41,6 +41,14 @@
             "beat": 11.5,
             "durationBeats": 0.5,
             "channel": 0
+          },
+          {
+            "id": "gpaq1a",
+            "note": 59,
+            "velocity": 100,
+            "beat": 10.5,
+            "durationBeats": 0.5,
+            "channel": 0
           }
         ]
       },
