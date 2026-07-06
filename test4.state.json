@@ -152,6 +152,16 @@
         "audioFlipped": false,
         "dubState": "empty",
         "audioTakeLaneCount": 0
+      },
+      "xbm": {
+        "id": "xbm",
+        "name": "MIDI",
+        "trackType": "midi",
+        "auditionLane": null,
+        "takeLaneCount": 0,
+        "audioFlipped": false,
+        "dubState": "empty",
+        "audioTakeLaneCount": 0
       }
     },
     "trackOrder": [
@@ -168,7 +178,8 @@
       "ous",
       "aoq",
       "tfr",
-      "qxc"
+      "qxc",
+      "xbm"
     ],
     "sections": {
       "bfw": {
