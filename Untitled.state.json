@@ -96,7 +96,7 @@
     "tempoMarkers": [],
     "keyMarkers": [],
     "timeSigMarkers": [],
-    "spatialMode": false,
+    "spatialMode": true,
     "rendererOutputMode": "binaural"
   },
   "transport": {
