@@ -94,11 +94,11 @@ sec main
     c 14:0 12:0 |ssck
       p w _w
         v .
-        n C3 G3 F3 C4 C3 G3
-      p w _w3
-        v .
-        n D#3 C4 D#3
+        n C3 G3 C4 C4 C3 G3
       p w _w7 w _w3
+        v .
+        n D#3
+        .
         v .
         n G3
   trk 3 MIDI |qgr
