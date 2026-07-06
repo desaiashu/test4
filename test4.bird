@@ -14,6 +14,7 @@ tracks
     type midi
     plugin tivra4OSC
     fx Abbey Road RS127 Box
+    fx2 tivraModularFx
     strip tivraStrip
 
 returns

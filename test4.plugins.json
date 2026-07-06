@@ -450,6 +450,15 @@
         "compSidechain": 0.0
       },
       "sidechainSensitivity": 0.6
+    },
+    "yxhj": {
+      "id": "yxhj",
+      "trackId": "btf",
+      "typeName": "tivraModularFx",
+      "slot": 1,
+      "enabled": true,
+      "state": null,
+      "sidechainSensitivity": 0.6
     }
   }
 }
