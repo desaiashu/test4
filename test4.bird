@@ -35,10 +35,10 @@ sec main
     c 4:165 34:256 |mepv
       'samples/Chicago sketch 10-Mini V3.wav'
   trk 2 midi |btf
-    c 0:0 4:0 |ujpm
-      p _q xx _qd xx _q xx _qd xx _h _xx xx _xx xx _xx xx _w
-        v 100
-        n E3 A3 E3 G#3 F#3 B3 F#3
+    c 0:0 14:96 |ujpm
+      p _q xx _qd xx _q xx _qd xx _h _xx xx _xx xx _xx xx _w11 q
+        v 100 100 100 100 100 100 100 90
+        n E3 A3 E3 G#3 F#3 B3 F#3 C4
     c 14:0 12:0 |ssck
       p w _w
         v .
