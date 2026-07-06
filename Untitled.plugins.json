@@ -79,7 +79,7 @@
         "filterCutoff": 20000.0,
         "filterReso": 0.0,
         "filterType": 0.0,
-        "filterEnvAmt": 0.0,
+        "filterEnvAmt": 22.0,
         "filterAttack": 10.0,
         "filterDecay": 200.0,
         "filterSustain": 50.0,
